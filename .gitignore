@@ -1,0 +1,32 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+temp/
+
+# Do not ignore this specific log file
+!important.log
+
+
+# Ignore environment variable file
+.env
+
+# Ignore data files
+*.pkl
+*.xlsx
+*.html
+
+
+Clinical_and_Other_Features_final_comb.xlsx
+Clinical_and_Other_Features.xlsx
+
+features_extracted_VGG16.pkl.gz
+modelTraining_Oct4.html
+
+
+.vscode/
+myenv/
