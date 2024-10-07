@@ -33,3 +33,4 @@ myenv/
 .DS_Store
 
 *.docx
+*.csv
