@@ -19,6 +19,7 @@ temp/
 *.pkl
 *.xlsx
 *.html
+*.pkl.gz
 
 
 Clinical_and_Other_Features_final_comb.xlsx
@@ -30,7 +31,12 @@ modelTraining_Oct4.html
 
 .vscode/
 myenv/
+
 .DS_Store
 
 *.docx
 *.csv
+heatmaps/
+
+heatmaps_combined/
+reconstructed_images/
