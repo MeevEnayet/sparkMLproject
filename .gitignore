@@ -42,3 +42,11 @@ heatmaps_combined/
 reconstructed_images/
 manifest-1728399616919/
 *.tcia
+png_im_out/
+png_expanded_tumor_out/
+png_expanded_tumor_out_20/
+
+png_tumor_out/
+myenv2/
+myenv2/bin/jupyter-troubleshoot
+png_expanded_tumor_out_15/
