@@ -20,6 +20,7 @@ temp/
 *.xlsx
 *.html
 *.pkl.gz
+*.png
 
 
 Clinical_and_Other_Features_final_comb.xlsx
@@ -50,3 +51,5 @@ png_tumor_out/
 myenv2/
 myenv2/bin/jupyter-troubleshoot
 png_expanded_tumor_out_15/
+png_expanded_tumor_out_5/
+png_expanded_tumor_out_10/
