@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+venv/
+ENV/
+*.env
+
+# macOS system files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ignore data files
+*.csv
+*.tsv
+*.json
+*.db
+*.sqlite3
+*.dcm
+
+# Ignore compiled Java/Scala files (if using Spark)
+*.class
+*.jar
+*.war
+*.out
+*.log
+
+png_expanded_tumor_5_middle_10/
+png_expanded_tumor_out_5/
+png_im_out/
+manifest-1728399616919/
+
+
+manifest-1728399616919.tcia
+*.pkl.gz
+*.pkl
